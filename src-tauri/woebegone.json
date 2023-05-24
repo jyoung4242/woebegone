@@ -1,0 +1,18 @@
+{
+  "projectlist": [
+    {
+      "id": "adfkjasdfkjad;fkljasd;fklj",
+      "title": "my project",
+      "path": "./projects/testproject_1",
+      "icon": "default",
+      "css": ""
+    },
+    {
+      "id": "adfkjasdfkjad;fkljasd;fklj",
+      "title": "my 2nd project",
+      "path": "./projects/testproject_2",
+      "icon": "../src/assets/dice.png",
+      "css": ""
+    }
+  ]
+}
